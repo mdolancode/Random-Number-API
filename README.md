@@ -1,3 +1,7 @@
+**Install FastAPI**
+
+- pip install "fastapi[all]"
+
 **After setting up basic API**
 
 - Open terminal and enter --> uvicorn main:app --reload
